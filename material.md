@@ -90,3 +90,11 @@ Lab4: **PyTorch and Artificial Neural Networks contd**
 Lecture 9: **Information Theory, Deviance, and Global Optimization**
 
 [Slides, Notes and Readings](lectures/lecture9.html)
+
+Lecture 10: **Annealing, Markov, and Metropolis**
+
+[Slides, Notes and Readings](lectures/lecture10.html)
+
+Lab5: **Simulated Annealing and the TSP**
+
+[Material](lectures/lab5.html)
