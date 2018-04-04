@@ -148,3 +148,17 @@ Lab8: **Regression and GPs**
 Lecture 17: **Augmentation and Slice and HMC**
 
 [Slides, Notes and Readings](lectures/lecture17.html)
+
+Lecture 18: **HMC, Normal Normal Hierarchical**
+
+[Slides, Notes and Readings](lectures/lecture18.html)
+
+Lab9: **Normal-Normal Hierarchicals**
+
+[Material](lectures/lab9.html)
+
+---
+
+Lecture 19: **Posterior Predictive Checks and GLMs**
+
+[Slides, Notes and Readings](lectures/lecture19.html)
