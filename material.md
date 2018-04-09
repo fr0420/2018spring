@@ -162,3 +162,11 @@ Lab9: **Normal-Normal Hierarchicals**
 Lecture 19: **Posterior Predictive Checks and GLMs**
 
 [Slides, Notes and Readings](lectures/lecture19.html)
+
+Lecture 20: **Decisions, Model Comparison, and GLMs**
+
+[Slides, Notes and Readings](lectures/lecture20.html)
+
+Lab 10: **Prosocial Chimps Bernoulli glm**
+
+[Notes and Material](lectures/lab10.html)
