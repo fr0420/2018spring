@@ -34,3 +34,7 @@ layout: "default"
 - [Lecture 19](lecture19.html): Posterior Predictive Checks and GLMs
 - [Lecture 20](lecture20.html): Decisions, Model Comparison, and GLMs
 - [Lab 10](lab10.html): Prosocial Chimps glm
+- [Lecture 21](lecture21.html): Decisions, Model Comparison, and GLMs, Ensembles, Workflow
+- [Lecture 22](lecture22.html): Workflow and Mixtures
+- [Lab 11](lab11.html): Mixtures and log-sum-exp marginals
+- [Lecture 23](lecture23.html): EM and Mixtures
